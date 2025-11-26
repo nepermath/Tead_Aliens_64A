@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\____NEPER\___PROJETOS\_______NP\____Games\_Game_Block\_Eletronica\Game_TEAD_Aliens_64A-2\Tead_Aliens_64A.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=tead_aliens_64a-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=tead_aliens_64a-slotholes.txt|DrillLayers=gtl,gbl

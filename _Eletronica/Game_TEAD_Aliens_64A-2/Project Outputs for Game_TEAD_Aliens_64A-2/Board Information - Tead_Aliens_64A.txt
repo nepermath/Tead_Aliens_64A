@@ -1,0 +1,25 @@
+Board Information Report
+Filename     : C:\____NEPER\___PROJETOS\_______NP\____Games\_Game_Block\_Eletronica\Game_TEAD_Aliens_64A-2\Tead_Aliens_64A.PcbDoc
+Date         : 08/04/2022
+Time         : 20:31:46
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 192mmx178mm
+    Components on board, 94
+count : 2
+
+Routing Information
+    Routing completion, 100,00%
+    Connections, 304
+    Connections routed, 304
+    Connections remaining, 0
+count : 4
+
+Net Track Width, Count
+    0.5mm, 134
+count : 1
+
+Net Via Size, Count
+    1.6mm, 134
+count : 1

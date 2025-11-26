@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Tead_Aliens_64A.PcbDoc   26/11/2025  07:42:05
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Tead_Aliens_64A-RoundHoles.TXT
+ASCII SlotHoles File : Tead_Aliens_64A-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.5mm (20mil)                                             Round             10        PTH        798.20mm (31.43inch)
+T2      0.6mm (24mil)                                             Round             48        PTH        373.09mm (14.69inch)
+T3      0.635mm (25mil)                                           Round             16        PTH        202.78mm (7.98inch)
+T4      0.7mm (28mil)                                             Round             4         PTH        164.33mm (6.47inch)
+T5      0.762mm (30mil)                                           Round             89        PTH        923.94mm (36.38inch)
+T6      0.8mm (31mil)                                             Round             212       PTH        2116.74mm (83.34inch)
+T7      0.889mm (35mil)                                           Round             4         PTH        15.79mm (0.62inch)
+T8      0.9mm (35mil)                                             Round             107       PTH        1117.36mm (43.99inch)
+T9      0.9mm (35mil)                                             Slot              3         PTH        32.19mm (1.27inch)
+T10     1mm (39mil)                                               Round             16        PTH        252.53mm (9.94inch)
+T11     1.2mm (47mil)                                             Round             13        PTH        130.51mm (5.14inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              522
+
+Total Processing Time (hh:mm:ss) : 00:00:00
