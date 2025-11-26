@@ -1,3 +1,48 @@
+# TEAD Aliens 64A – Retro Game Clock with Embedded System
+
+> ⚠️ This README is available in both [English 🌍](#readme-in-english-) and [Português 🇧🇷](#readme-em-português-)
+
+---
+
+## README in English 🌍
+
+Digital clock project with embedded classic games, based on an Atmel microcontroller programmed in C++. The electronic design and PCB were developed using Altium Designer.
+
+### 🕹️ Available Games
+
+- **TEAD Aliens**: *Space Invaders*-style
+- **Centopeia**: classic *Centipede*-style
+
+### 🕒 Clock Display Modes
+
+- **Version 1**: shows **hours and minutes**
+- **Version 2**: shows **hours, minutes, and seconds**
+
+### ⚙️ System Features
+
+- Complete configuration menu:
+  - Date and time setup
+  - Game selection
+  - Boot configuration
+- Visual interface using numeric display (likely LED-based)
+- Embedded system fully controlled via C++ firmware
+
+### 📁 Project Structure
+
+```text
+TEad_Aliens_64A/
+├── README.md                       # Project description
+├── _BMP/                           # PCB images and references
+│
+├── _Eletronica/
+│   └── Game_TEAD_Aliens_6A-2/      # PCB schematic/layout (Altium Designer)
+│
+├── _programa/
+│   └── c++/
+│       └── Game_TEAD_Aliens_64A/   # C++ source code (Atmel Studio)
+│
+└── other related files and folders
+
 # TEAD Aliens 64A – Relógio com Jogos Embutidos
 
 Projeto de relógio digital com jogos clássicos embarcados, baseado em microcontrolador Atmel programado em C++, com design eletrônico e PCB desenvolvidos no Altium Designer.
