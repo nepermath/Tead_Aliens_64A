@@ -48,6 +48,10 @@ TEad_Aliens_64A/
 
 Projeto em desenvolvimento/teste. Funcional, com jogos integrados, menu de configuração, e suporte a duas versões de relógio.
 
+## Images
+
+![Topo da Placa](_BMP/Tead_Aliens_64_PCB_TopView)
+
 ## 🛠️ Autor
 
 Desenvolvido por **Néper**  
