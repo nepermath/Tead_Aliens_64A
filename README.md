@@ -50,7 +50,8 @@ Projeto em desenvolvimento/teste. Funcional, com jogos integrados, menu de confi
 
 ## Images
 
-![Topo da Placa](_BMPs/Tead_Aliens_64_PCB_TopView.JPG)
+![PCB Top View](_BMPs/Tead_Aliens_64_PCB_TopView.JPG)
+![PCB Bottom View](_BMPs/Tead_Aliens_64_PCB_BottomView.JPG)
 
 ## 🛠️ Autor
 
